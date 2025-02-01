@@ -52,8 +52,8 @@ const Home = () => {
           custom={3}
         >
           ArtChain leverages blockchain technology to provide transparent
-          ownership, provenance, and authenticity for digital art. Upload your
-          artwork, generate an immutable record on the blockchain, and create a
+          ownership, provenance and authenticity for digital art. Upload your
+          artwork, generate an immutable record on the blockchain and create a
           verifiable certificate of ownership.
         </motion.p>
       </section>
@@ -108,7 +108,7 @@ const Home = () => {
         >
           Blockchain technology guarantees that artwork metadata is immutable,
           ensuring that the details of your artwork—such as creation date,
-          ownership, and transaction history—remain unaltered. This transparency
+          ownership and transaction history—remain unaltered. This transparency
           helps combat art fraud and secures digital assets.
         </motion.p>
       </section>
