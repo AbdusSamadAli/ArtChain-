@@ -1,5 +1,4 @@
-![Home Page Screenshot](/sshomepage.jpg)
-
+![alt text](./Frontend/public/sshomepage.jpg)
 
 ArtChain is a MERN stack project integrating a private blockchain to provide secure and immutable storage of digital artwork metadata. Artists can upload their artworks, and the system records essential details like title, owner name, description, and a blockchain hash as an unchangeable record.
 
